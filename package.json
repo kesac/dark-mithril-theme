@@ -1,10 +1,14 @@
-﻿{
+{
 	"name": "dark-mithril-theme",
 	"displayName": "Dark Mithril",
 	"description": "A dark theme derived with gold and blue-gray accents.",
-	"version": "0.0.14",
+	"version": "0.1.0",
 	"publisher": "kesac",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kesac/dark-mithril-theme.git"
+	},
 	"engines": {
 		"vscode": "^1.100.0"
 	},
