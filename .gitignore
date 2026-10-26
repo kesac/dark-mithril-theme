@@ -1,0 +1,20 @@
+# Packaged extension builds
+*.vsix
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode-test/
+
+# Claude Code local settings
+.claude/settings.local.json
