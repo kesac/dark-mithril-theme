@@ -7,7 +7,7 @@ The VS Code dark theme with blue-grays and gold (amber) accents and highlights. 
 Install from the packaged `.vsix` file:
 
 ```bash
-code --install-extension dark-mithril-theme-0.1.0.vsix
+code --install-extension dark-mithril-theme-0.1.2.vsix
 ```
 
 Or in VS Code, open the Extensions view, choose **...** > **Install from VSIX...**, and select the file.
