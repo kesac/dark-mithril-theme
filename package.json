@@ -2,7 +2,7 @@
 	"name": "dark-mithril-theme",
 	"displayName": "Dark Mithril",
 	"description": "A dark theme derived with gold and blue-gray accents.",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"publisher": "kesac",
 	"license": "MIT",
 	"repository": {
@@ -21,6 +21,16 @@
 				"label": "Dark Mithril",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark-mithril-color-theme.json"
+			},
+			{
+				"label": "Dark Mithril Dim",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-mithril-dim-color-theme.json"
+			},
+			{
+				"label": "Dark Mithril Dimmerer",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-mithril-dimmerer-color-theme.json"
 			}
 		]
 	}
