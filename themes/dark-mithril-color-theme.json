@@ -279,7 +279,7 @@
 		"agentsUnreadBadge.background": "#286080",
 		"agentsUnreadBadge.foreground": "#FFFFFF",
 		"activeSessionView.background": "#161819",
-		"activeSessionView.foreground": "#ffffff",
+		"activeSessionView.foreground": "#F1F1F1",
 		"inactiveSessionView.background": "#1f2022",
 		"inactiveSessionView.foreground": "#cdd4d3",
 		"chat.inputWorkingBorderColor1": "#286080",
