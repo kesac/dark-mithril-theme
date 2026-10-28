@@ -1,18 +1,18 @@
 ﻿# Mithril Theme
 
-VS Code dark and light themes with blue-grays and gold (amber) accents and highlights. The palette is inspired by the [Mithril gold-trimmed armour](https://oldschool.runescape.wiki/w/Mithril_gold-trimmed_set_(lg)) from Old School RuneScape.
+A VS Code dark theme with blue-grays and gold (amber) accents and highlights. The palette is inspired by the [Mithril gold-trimmed armour](https://oldschool.runescape.wiki/w/Mithril_gold-trimmed_set_(lg)) from Old School RuneScape.
 
 ## Install
 
 Install from the packaged `.vsix` file:
 
 ```bash
-code --install-extension mithril-theme-0.3.0.vsix
+code --install-extension mithril-theme-0.4.0.vsix
 ```
 
 Or in VS Code, open the Extensions view, choose **...** > **Install from VSIX...**, and select the file.
 
-Then run *Preferences: Color Theme* and choose **Mithril Dark** or **Mithril Light**.
+Then run *Preferences: Color Theme* and choose **Mithril Dark**.
 
 ## Credits
 
